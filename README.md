@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm LingXiao</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fantasy-lotus" alt="fantasy-lotus" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fantasy-lotus&title=-Followers" alt="fantasy-lotus" /></a> </p>
 
 - I'm A *Year N* Software Engineering student diving deep into the tech world, Currently getting hands-on experience at a cool tech company~
 
