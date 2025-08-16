@@ -4,8 +4,6 @@
 
 - I'm A *Year N* Software Engineering student diving deep into the tech world, Currently getting hands-on experience at a cool tech company~
 
-- 🔭 I’m currently working on **SKTLAB**
-
 - 🌱 I’m currently learning ****Backend Engineering, Core Computer Science, and Cutting-edge AI****
 
 - 💬 Ask me about **Java, TypeScript, AI**
